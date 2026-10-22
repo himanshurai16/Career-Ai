@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareerAI — Student Career & Internship Advisor
 
 CareerAI is a full-stack college mini project built with Python Flask, SQLite, HTML, CSS and JavaScript. It helps students explore possible career paths, compare skills with fictional internship examples, and track a learning roadmap.
@@ -112,3 +113,6 @@ CareerAI/
 - The resource links perform a Google search for the step title rather than claiming a specific course is endorsed or available.
 - Email verification, password reset, rate limiting, administrator data management and production deployment configuration are not implemented.
 - Google Fonts is an optional visual enhancement; the app's core features do not need an API key or paid service. If offline use is required, remove the font import at the top of `static/css/style.css`.
+=======
+# Career-Ai
+>>>>>>> 1551d2c507d3001f7ace9da7790743608ca4084b
