@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block title %}Error {{ code }} · CareerAI{% endblock %}{% block content %}<section class="empty-state error-state"><div>✦</div><h1>{{ code }}</h1><p>{{ message }}</p><a class="btn btn-primary" href="{{ url_for('home') }}">Back to home ↗</a></section>{% endblock %}
